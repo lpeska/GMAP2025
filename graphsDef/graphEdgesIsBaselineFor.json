@@ -1,0 +1,1705 @@
+{
+   "nodes": [
+      {
+         "id": 1,
+         "label": "[resultsAgg] A novel group recommender system based on members\u2019 influence and leader impact",
+         "title": "A novel group recommender system based on members\u2019 influence and leader impact",
+         "year": "2020",
+         "algorithm_class": "resultsAgg",
+         "venue": "Knowledge-Based Systems"
+      },
+      {
+         "id": 3,
+         "label": "[mixed/other/unclear] Content-based group recommender systems: A general taxonomy and further improvements",
+         "title": "Content-based group recommender systems: A general taxonomy and further improvements",
+         "year": "2021",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 6,
+         "label": "[resultsAgg] Opinion Dynamics-Based Group Recommender Systems",
+         "title": "Opinion Dynamics-Based Group Recommender Systems",
+         "year": "2018",
+         "algorithm_class": "resultsAgg",
+         "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+      },
+      {
+         "id": 8,
+         "label": "[resultsAgg] Top-N group recommendations with fairness",
+         "title": "Top-N group recommendations with fairness",
+         "year": "2019",
+         "algorithm_class": "resultsAgg",
+         "venue": "SAC19"
+      },
+      {
+         "id": 14,
+         "label": "[profileAgg] GBERT: Pre-Training User Representations for Ephemeral Group Recommendation",
+         "title": "GBERT: Pre-Training User Representations for Ephemeral Group Recommendation",
+         "year": "2022",
+         "algorithm_class": "profileAgg",
+         "venue": "CIKM22"
+      },
+      {
+         "id": 15,
+         "label": "[profileAgg] Dynamically aggregating individuals\u2019 social influence and interest evolution for group recommendations",
+         "title": "Dynamically aggregating individuals\u2019 social influence and interest evolution for group recommendations",
+         "year": "2022",
+         "algorithm_class": "profileAgg",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 16,
+         "label": "[resultsAgg] Group recommender systems: A multi-agent solution",
+         "title": "Group recommender systems: A multi-agent solution",
+         "year": "2019",
+         "algorithm_class": "resultsAgg",
+         "venue": "Knowledge-Based Systems"
+      },
+      {
+         "id": 17,
+         "label": "[mixed/other/unclear] A fuzzy approach for natural noise management in group recommender systems",
+         "title": "A fuzzy approach for natural noise management in group recommender systems",
+         "year": "2018",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 21,
+         "label": "[resultsAgg] Integrating Collaboration and Leadership in Conversational Group Recommender Systems",
+         "title": "Integrating Collaboration and Leadership in Conversational Group Recommender Systems",
+         "year": "2021",
+         "algorithm_class": "resultsAgg",
+         "venue": "ACM Transactions on Information Systems"
+      },
+      {
+         "id": 22,
+         "label": "[resultsAgg] Group Recommender Systems \u2013 An Evolutionary Approach Based on Multi-expert System for Consensus",
+         "title": "Group Recommender Systems \u2013 An Evolutionary Approach Based on Multi-expert System for Consensus",
+         "year": "2018",
+         "algorithm_class": "resultsAgg",
+         "venue": "Journal of Intelligent Systems"
+      },
+      {
+         "id": 23,
+         "label": "[resultsAgg] Aggregating user preferences in group recommender systems: A crowdsourcing approach",
+         "title": "Aggregating user preferences in group recommender systems: A crowdsourcing approach",
+         "year": "2022",
+         "algorithm_class": "resultsAgg",
+         "venue": "Decision Support Systems"
+      },
+      {
+         "id": 27,
+         "label": "[profileAgg] A Novel Group Recommendation Model With Two-Stage Deep Learning",
+         "title": "A Novel Group Recommendation Model With Two-Stage Deep Learning",
+         "year": "2022",
+         "algorithm_class": "profileAgg",
+         "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+      },
+      {
+         "id": 29,
+         "label": "[profileAgg] An Efficient Group Recommendation Model With Multiattention-Based Neural Networks",
+         "title": "An Efficient Group Recommendation Model With Multiattention-Based Neural Networks",
+         "year": "2020",
+         "algorithm_class": "profileAgg",
+         "venue": "IEEE Transactions on Neural Networks and Learning Systems"
+      },
+      {
+         "id": 31,
+         "label": "[profileAgg] Social Influence-Based Group Representation Learning for Group Recommendation",
+         "title": "Social Influence-Based Group Representation Learning for Group Recommendation",
+         "year": "2019",
+         "algorithm_class": "profileAgg",
+         "venue": "ICDE"
+      },
+      {
+         "id": 32,
+         "label": "[profileAgg] Social-Enhanced Attentive Group Recommendation",
+         "title": "Social-Enhanced Attentive Group Recommendation",
+         "year": "2021",
+         "algorithm_class": "profileAgg",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 33,
+         "label": "[profileAgg] Dynamic Connection-Based Social Group Recommendation",
+         "title": "Dynamic Connection-Based Social Group Recommendation",
+         "year": "2020",
+         "algorithm_class": "profileAgg",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 36,
+         "label": "[resultsAgg] A fuzzy content-based group recommender system with dynamic selection of the aggregation functions",
+         "title": "A fuzzy content-based group recommender system with dynamic selection of the aggregation functions",
+         "year": "2022",
+         "algorithm_class": "resultsAgg",
+         "venue": "International Journal of Approximate Reasoning"
+      },
+      {
+         "id": 37,
+         "label": "[resultsAgg] Aggregation of preference relations to enhance the ranking quality of collaborative filtering based group recommender system",
+         "title": "Aggregation of preference relations to enhance the ranking quality of collaborative filtering based group recommender system",
+         "year": "2020",
+         "algorithm_class": "resultsAgg",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 38,
+         "label": "[mixed/other/unclear] Implicit Feedback-based Group Recommender System for Internet of Things Applications",
+         "title": "Implicit Feedback-based Group Recommender System for Internet of Things Applications",
+         "year": "2020",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "GLOBECOM"
+      },
+      {
+         "id": 40,
+         "label": "[profileAgg] An Enhanced Group Recommender System by Exploiting Preference Relation",
+         "title": "An Enhanced Group Recommender System by Exploiting Preference Relation",
+         "year": "2019",
+         "algorithm_class": "profileAgg",
+         "venue": "IEEE Access"
+      },
+      {
+         "id": 41,
+         "label": "[resultsAgg] FARGO: A Fair, Context-AwaRe, Group RecOmmender System",
+         "title": "FARGO: A Fair, Context-AwaRe, Group RecOmmender System",
+         "year": "2022",
+         "algorithm_class": "resultsAgg",
+         "venue": "BIAS"
+      },
+      {
+         "id": 46,
+         "label": "[profileAgg] TruGRC: Trust-Aware Group Recommendation with Virtual Coordinators",
+         "title": "TruGRC: Trust-Aware Group Recommendation with Virtual Coordinators",
+         "year": "2019",
+         "algorithm_class": "profileAgg",
+         "venue": "Future Generation Computer Systems"
+      },
+      {
+         "id": 47,
+         "label": "[profileAgg] GIST: A generative model with individual and subgroup-based topics for group recommendation",
+         "title": "GIST: A generative model with individual and subgroup-based topics for group recommendation",
+         "year": "2018",
+         "algorithm_class": "profileAgg",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 51,
+         "label": "[profileAgg] Generation meets recommendation: proposing novel items for groups of users",
+         "title": "Generation meets recommendation: proposing novel items for groups of users",
+         "year": "2018",
+         "algorithm_class": "profileAgg",
+         "venue": "RecSys"
+      },
+      {
+         "id": 53,
+         "label": "[profileAgg] Social Group Recommendation With TrAdaBoost",
+         "title": "Social Group Recommendation With TrAdaBoost",
+         "year": "2020",
+         "algorithm_class": "profileAgg",
+         "venue": "IEEE Transactions on Computational Social Systems"
+      },
+      {
+         "id": 54,
+         "label": "[resultsAgg] Fairness-preserving Group Recommendations With User Weighting",
+         "title": "Fairness-preserving Group Recommendations With User Weighting",
+         "year": "2021",
+         "algorithm_class": "resultsAgg",
+         "venue": "UMAP21"
+      },
+      {
+         "id": 55,
+         "label": "[resultsAgg] Ensuring Fairness in Group Recommendations by Rank-Sensitive Balancing of Relevance",
+         "title": "Ensuring Fairness in Group Recommendations by Rank-Sensitive Balancing of Relevance",
+         "year": "2020",
+         "algorithm_class": "resultsAgg",
+         "venue": "RecSys"
+      },
+      {
+         "id": 60,
+         "label": "[profileAgg] Self-Supervised Group Graph Collaborative Filtering for Group Recommendation",
+         "title": "Self-Supervised Group Graph Collaborative Filtering for Group Recommendation",
+         "year": "2023",
+         "algorithm_class": "profileAgg",
+         "venue": "WSDM23"
+      },
+      {
+         "id": 61,
+         "label": "[resultsAgg] The Effect of Similarity Metric and Group Size on Outlier Selection &amp; Satisfaction in Group Recommender Systems",
+         "title": "The Effect of Similarity Metric and Group Size on Outlier Selection &amp; Satisfaction in Group Recommender Systems",
+         "year": "2023",
+         "algorithm_class": "resultsAgg",
+         "venue": "UMAP23"
+      },
+      {
+         "id": 62,
+         "label": "[mixed/other/unclear] DFGR: Diversity and Fairness Awareness of Group Recommendation in an Event-based Social Network",
+         "title": "DFGR: Diversity and Fairness Awareness of Group Recommendation in an Event-based Social Network",
+         "year": "2022",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "Neural Processing Letters"
+      },
+      {
+         "id": 63,
+         "label": "[mixed/other/unclear] SQUIRREL: A framework for sequential group recommendations through reinforcement learning",
+         "title": "SQUIRREL: A framework for sequential group recommendations through reinforcement learning",
+         "year": "2023",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "Information Systems"
+      },
+      {
+         "id": 64,
+         "label": "[resultsAgg] A fuzzy intelligent group recommender method in sparse-data environments based on multi-agent negotiation",
+         "title": "A fuzzy intelligent group recommender method in sparse-data environments based on multi-agent negotiation",
+         "year": "2023",
+         "algorithm_class": "resultsAgg",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 65,
+         "label": "[mixed/other/unclear] Hybrid POI group recommender system based on group type in LBSN",
+         "title": "Hybrid POI group recommender system based on group type in LBSN",
+         "year": "2023",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 67,
+         "label": "[resultsAgg] Evaluating explainable social choice-based aggregation strategies for group recommendation",
+         "title": "Evaluating explainable social choice-based aggregation strategies for group recommendation",
+         "year": "2023",
+         "algorithm_class": "resultsAgg",
+         "venue": "User Modeling and User-Adapted Interaction"
+      },
+      {
+         "id": 68,
+         "label": "[mixed/other/unclear] Performance Evaluation of Aggregation-based Group Recommender Systems for Ephemeral Groups",
+         "title": "Performance Evaluation of Aggregation-based Group Recommender Systems for Ephemeral Groups",
+         "year": "2022",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "ACM Transactions on Intelligent Systems and Technology"
+      },
+      {
+         "id": 69,
+         "label": "[profileAgg] A Hierarchical Attention Network for Cross-Domain Group Recommendation",
+         "title": "A Hierarchical Attention Network for Cross-Domain Group Recommendation",
+         "year": "2022",
+         "algorithm_class": "profileAgg",
+         "venue": "IEEE Transactions on Neural Networks and Learning Systems"
+      },
+      {
+         "id": 70,
+         "label": "[profileAgg] HetGRec: Heterogeneous Graph Attention Network for Group Recommendation",
+         "title": "HetGRec: Heterogeneous Graph Attention Network for Group Recommendation",
+         "year": "2023",
+         "algorithm_class": "profileAgg",
+         "venue": "IEEE Intelligent Systems"
+      },
+      {
+         "id": 71,
+         "label": "[profileAgg] Intra- and inter-association attention network-enhanced policy learning for social group recommendation",
+         "title": "Intra- and inter-association attention network-enhanced policy learning for social group recommendation",
+         "year": "2022",
+         "algorithm_class": "profileAgg",
+         "venue": "World Wide Web"
+      },
+      {
+         "id": 72,
+         "label": "[resultsAgg] Preference Aggregation Mechanisms for\u00a0a\u00a0Tourism-Oriented Bayesian Recommender",
+         "title": "Preference Aggregation Mechanisms for\u00a0a\u00a0Tourism-Oriented Bayesian Recommender",
+         "year": "2022",
+         "algorithm_class": "resultsAgg",
+         "venue": ""
+      },
+      {
+         "id": 73,
+         "label": "[] Collaborative group embedding and decision aggregation based on attentive influence of individual members: A group recommendation perspective",
+         "title": "Collaborative group embedding and decision aggregation based on attentive influence of individual members: A group recommendation perspective",
+         "year": "2023",
+         "algorithm_class": "",
+         "venue": "Decision Support Systems"
+      },
+      {
+         "id": 74,
+         "label": "[resultsAgg] A personality-aware group recommendation system based on pairwise preferences",
+         "title": "A personality-aware group recommendation system based on pairwise preferences",
+         "year": "2022",
+         "algorithm_class": "resultsAgg",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 75,
+         "label": "[profileAgg] Automatically detecting groups using locality-sensitive hashing in group recommendations",
+         "title": "Automatically detecting groups using locality-sensitive hashing in group recommendations",
+         "year": "2022",
+         "algorithm_class": "profileAgg",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 77,
+         "label": "[profileAgg] Incorporating global and local social networks for group recommendations",
+         "title": "Incorporating global and local social networks for group recommendations",
+         "year": "2022",
+         "algorithm_class": "profileAgg",
+         "venue": "Pattern Recognition"
+      },
+      {
+         "id": 78,
+         "label": "[profileAgg] Social dual-effect driven group modeling for neural group recommendation",
+         "title": "Social dual-effect driven group modeling for neural group recommendation",
+         "year": "2022",
+         "algorithm_class": "profileAgg",
+         "venue": "Neurocomputing"
+      },
+      {
+         "id": 79,
+         "label": "[resultsAgg] Coupled or Decoupled Evaluation for Group Recommendation Methods?",
+         "title": "Coupled or Decoupled Evaluation for Group Recommendation Methods?",
+         "year": "2021",
+         "algorithm_class": "resultsAgg",
+         "venue": "RecSys"
+      },
+      {
+         "id": 80,
+         "label": "[profileAgg] Towards comprehensive profile aggregation methods for group recommendation based on the latent factor model",
+         "title": "Towards comprehensive profile aggregation methods for group recommendation based on the latent factor model",
+         "year": "2021",
+         "algorithm_class": "profileAgg",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 81,
+         "label": "[profileAgg] DeepGroup: Group Recommendation with Implicit Feedback",
+         "title": "DeepGroup: Group Recommendation with Implicit Feedback",
+         "year": "2021",
+         "algorithm_class": "profileAgg",
+         "venue": "CIKM21"
+      },
+      {
+         "id": 82,
+         "label": "[profileAgg] Hierarchical Hyperedge Embedding-Based Representation Learning for Group Recommendation",
+         "title": "Hierarchical Hyperedge Embedding-Based Representation Learning for Group Recommendation",
+         "year": "2021",
+         "algorithm_class": "profileAgg",
+         "venue": "ACM Transactions on Information Systems"
+      },
+      {
+         "id": 83,
+         "label": "[profileAgg] Thinking inside The Box: Learning Hypercube Representations for Group Recommendation",
+         "title": "Thinking inside The Box: Learning Hypercube Representations for Group Recommendation",
+         "year": "2022",
+         "algorithm_class": "profileAgg",
+         "venue": "SIGIR22"
+      },
+      {
+         "id": 84,
+         "label": "[profileAgg] Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation",
+         "title": "Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation",
+         "year": "2021",
+         "algorithm_class": "profileAgg",
+         "venue": "CIKM21"
+      },
+      {
+         "id": 85,
+         "label": "[profileAgg] Softwarized Attention-Based Context-Aware Group Recommendation Technology in Event-Based Industrial Cyber-Physical Systems",
+         "title": "Softwarized Attention-Based Context-Aware Group Recommendation Technology in Event-Based Industrial Cyber-Physical Systems",
+         "year": "2021",
+         "algorithm_class": "profileAgg",
+         "venue": "IEEE Transactions on Industrial Informatics"
+      },
+      {
+         "id": 86,
+         "label": "[profileAgg] Knowledge-Aware Group Representation Learning for Group Recommendation",
+         "title": "Knowledge-Aware Group Representation Learning for Group Recommendation",
+         "year": "2021",
+         "algorithm_class": "profileAgg",
+         "venue": "ICDE"
+      },
+      {
+         "id": 87,
+         "label": "[resultsAgg] Enumerating Fair Packages for Group Recommendations",
+         "title": "Enumerating Fair Packages for Group Recommendations",
+         "year": "2022",
+         "algorithm_class": "resultsAgg",
+         "venue": "WSDM22"
+      },
+      {
+         "id": 88,
+         "label": "[resultsAgg] Robustness Against Polarity Bias in Decoupled Group Recommendations Evaluation",
+         "title": "Robustness Against Polarity Bias in Decoupled Group Recommendations Evaluation",
+         "year": "2022",
+         "algorithm_class": "resultsAgg",
+         "venue": "UMAP22"
+      },
+      {
+         "id": 89,
+         "label": "[profileAgg] Hierarchical Fuzzy Graph Attention Network for Group Recommendation",
+         "title": "Hierarchical Fuzzy Graph Attention Network for Group Recommendation",
+         "year": "2021",
+         "algorithm_class": "profileAgg",
+         "venue": "FUZZ-IEEE"
+      },
+      {
+         "id": 91,
+         "label": "[profileAgg] Hypergraph Convolutional Network for Group Recommendation",
+         "title": "Hypergraph Convolutional Network for Group Recommendation",
+         "year": "2021",
+         "algorithm_class": "profileAgg",
+         "venue": "ICDM"
+      },
+      {
+         "id": 92,
+         "label": "[profileAgg] Preference relation based collaborative filtering with graph aggregation for group recommender system",
+         "title": "Preference relation based collaborative filtering with graph aggregation for group recommender system",
+         "year": "2020",
+         "algorithm_class": "profileAgg",
+         "venue": "Applied Intelligence"
+      },
+      {
+         "id": 93,
+         "label": "[resultsAgg] Sequential group recommendations based on satisfaction and disagreement scores",
+         "title": "Sequential group recommendations based on satisfaction and disagreement scores",
+         "year": "2021",
+         "algorithm_class": "resultsAgg",
+         "venue": "Journal of Intelligent Information Systems"
+      },
+      {
+         "id": 94,
+         "label": "[profileAgg] Self\u2010supervised graph learning for occasional group recommendation",
+         "title": "Self\u2010supervised graph learning for occasional group recommendation",
+         "year": "2022",
+         "algorithm_class": "profileAgg",
+         "venue": "International Journal of Intelligent Systems"
+      },
+      {
+         "id": 95,
+         "label": "[resultsAgg] Behavior\u2010based POI recommendation for small groups in location\u2010based social networks",
+         "title": "Behavior\u2010based POI recommendation for small groups in location\u2010based social networks",
+         "year": "2021",
+         "algorithm_class": "resultsAgg",
+         "venue": "Transactions in GIS"
+      },
+      {
+         "id": 96,
+         "label": "[profileAgg] UDA: A user-difference attention for group recommendation",
+         "title": "UDA: A user-difference attention for group recommendation",
+         "year": "2021",
+         "algorithm_class": "profileAgg",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 97,
+         "label": "[profileAgg] Socially-driven multi-interaction attentive group representation learning for group recommendation",
+         "title": "Socially-driven multi-interaction attentive group representation learning for group recommendation",
+         "year": "2021",
+         "algorithm_class": "profileAgg",
+         "venue": "Pattern Recognition Letters"
+      },
+      {
+         "id": 98,
+         "label": "[profileAgg] DGC: Dynamic group behavior modeling that utilizes context information for group recommendation",
+         "title": "DGC: Dynamic group behavior modeling that utilizes context information for group recommendation",
+         "year": "2021",
+         "algorithm_class": "profileAgg",
+         "venue": "Knowledge-Based Systems"
+      },
+      {
+         "id": 99,
+         "label": "[resultsAgg] A POI group recommendation method in location-based social networks based on user influence",
+         "title": "A POI group recommendation method in location-based social networks based on user influence",
+         "year": "2021",
+         "algorithm_class": "resultsAgg",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 100,
+         "label": "[profileAgg] Multi-view group representation learning for location-aware group recommendation",
+         "title": "Multi-view group representation learning for location-aware group recommendation",
+         "year": "2021",
+         "algorithm_class": "profileAgg",
+         "venue": "Information Sciences"
+      },
+      {
+         "id": 101,
+         "label": "[resultsAgg] Investigating and counteracting popularity bias in group recommendations",
+         "title": "Investigating and counteracting popularity bias in group recommendations",
+         "year": "2021",
+         "algorithm_class": "resultsAgg",
+         "venue": "Information Processing &amp; Management"
+      },
+      {
+         "id": 102,
+         "label": "[resultsAgg] A MAS-Based Approach for POI Group Recommendation in LBSN",
+         "title": "A MAS-Based Approach for POI Group Recommendation in LBSN",
+         "year": "2020",
+         "algorithm_class": "resultsAgg",
+         "venue": "PAAMS"
+      },
+      {
+         "id": 103,
+         "label": "[profileAgg] GAME: Learning Graphical and Attentive Multi-View Embeddings for Occasional Group Recommendation",
+         "title": "GAME: Learning Graphical and Attentive Multi-View Embeddings for Occasional Group Recommendation",
+         "year": "2020",
+         "algorithm_class": "profileAgg",
+         "venue": "SIGIR20"
+      },
+      {
+         "id": 104,
+         "label": "[profileAgg] GroupIM: A Mutual Information Maximization Framework for Neural Group Recommendation",
+         "title": "GroupIM: A Mutual Information Maximization Framework for Neural Group Recommendation",
+         "year": "2020",
+         "algorithm_class": "profileAgg",
+         "venue": "SIGIR20"
+      },
+      {
+         "id": 105,
+         "label": "[profileAgg] Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation",
+         "title": "Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation",
+         "year": "2020",
+         "algorithm_class": "profileAgg",
+         "venue": "SIGIR20"
+      },
+      {
+         "id": 108,
+         "label": "[profileAgg] Group Recommendation with Latent Voting Mechanism",
+         "title": "Group Recommendation with Latent Voting Mechanism",
+         "year": "2020",
+         "algorithm_class": "profileAgg",
+         "venue": "ICDE"
+      },
+      {
+         "id": 110,
+         "label": "[profileAgg] Educational Group Recommendations with Virtual Leaders",
+         "title": "Educational Group Recommendations with Virtual Leaders",
+         "year": "2020",
+         "algorithm_class": "profileAgg",
+         "venue": "ICALT"
+      },
+      {
+         "id": 111,
+         "label": "[profileAgg] Overcoming Data Sparsity in Group Recommendation",
+         "title": "Overcoming Data Sparsity in Group Recommendation",
+         "year": "2020",
+         "algorithm_class": "profileAgg",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 112,
+         "label": "[resultsAgg] Context-Aware Restaurant Recommendation for Group of People",
+         "title": "Context-Aware Restaurant Recommendation for Group of People",
+         "year": "2020",
+         "algorithm_class": "resultsAgg",
+         "venue": "SERVICES"
+      },
+      {
+         "id": 113,
+         "label": "[mixed/other/unclear] Secure Artificial Intelligence of Things for Implicit Group Recommendations",
+         "title": "Secure Artificial Intelligence of Things for Implicit Group Recommendations",
+         "year": "2022",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "IEEE Internet of Things Journal"
+      },
+      {
+         "id": 114,
+         "label": "[mixed/other/unclear] A new point-of-interest group recommendation method in location-based social networks",
+         "title": "A new point-of-interest group recommendation method in location-based social networks",
+         "year": "2020",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "Neural Computing and Applications"
+      },
+      {
+         "id": 115,
+         "label": "[resultsAgg] Negotiation framework for group recommendation based on fuzzy computational model of trust and distrust",
+         "title": "Negotiation framework for group recommendation based on fuzzy computational model of trust and distrust",
+         "year": "2020",
+         "algorithm_class": "resultsAgg",
+         "venue": "Multimedia Tools and Applications"
+      },
+      {
+         "id": 116,
+         "label": "[mixed/other/unclear] Group recommendation with noisy subjective preferences",
+         "title": "Group recommendation with noisy subjective preferences",
+         "year": "2020",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "Computational Intelligence"
+      },
+      {
+         "id": 117,
+         "label": "[profileAgg] An enhanced probabilistic fairness-aware group recommendation by incorporating social activeness",
+         "title": "An enhanced probabilistic fairness-aware group recommendation by incorporating social activeness",
+         "year": "2020",
+         "algorithm_class": "profileAgg",
+         "venue": "Journal of Network and Computer Applications"
+      },
+      {
+         "id": 118,
+         "label": "[resultsAgg] Group recommendation based on hybrid trust metric",
+         "title": "Group recommendation based on hybrid trust metric",
+         "year": "2020",
+         "algorithm_class": "resultsAgg",
+         "venue": "Automatika"
+      },
+      {
+         "id": 119,
+         "label": "[mixed/other/unclear] Optimized fuzzy-based group recommendation with parallel computation",
+         "title": "Optimized fuzzy-based group recommendation with parallel computation",
+         "year": "2019",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "Journal of Intelligent &amp; Fuzzy Systems"
+      },
+      {
+         "id": 120,
+         "label": "[mixed/other/unclear] User-centered evaluation of strategies for recommending sequences of points of interest to groups",
+         "title": "User-centered evaluation of strategies for recommending sequences of points of interest to groups",
+         "year": "2019",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "RecSys"
+      },
+      {
+         "id": 121,
+         "label": "[resultsAgg] Modeling Uncertainty in Group Recommendations",
+         "title": "Modeling Uncertainty in Group Recommendations",
+         "year": "2019",
+         "algorithm_class": "resultsAgg",
+         "venue": "UMAP19"
+      },
+      {
+         "id": 122,
+         "label": "[profileAgg] Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation",
+         "title": "Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation",
+         "year": "2019",
+         "algorithm_class": "profileAgg",
+         "venue": "SIGIR19"
+      },
+      {
+         "id": 124,
+         "label": "[profileAgg] GERF: A Group Event Recommendation Framework Based on Learning-to-Rank",
+         "title": "GERF: A Group Event Recommendation Framework Based on Learning-to-Rank",
+         "year": "2020",
+         "algorithm_class": "profileAgg",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 125,
+         "label": "[profileAgg] CVTM: A Content-Venue-Aware Topic Model for Group Event Recommendation",
+         "title": "CVTM: A Content-Venue-Aware Topic Model for Group Event Recommendation",
+         "year": "2020",
+         "algorithm_class": "profileAgg",
+         "venue": "IEEE Transactions on Knowledge and Data Engineering"
+      },
+      {
+         "id": 127,
+         "label": "[profileAgg] Group Recommendation via Self-Attention and Collaborative Metric Learning Model",
+         "title": "Group Recommendation via Self-Attention and Collaborative Metric Learning Model",
+         "year": "2019",
+         "algorithm_class": "profileAgg",
+         "venue": "IEEE Access"
+      },
+      {
+         "id": 128,
+         "label": "[profileAgg] GRADI: Towards Group Recommendation Using Attentive Dual Top-Down and Bottom-Up Influences",
+         "title": "GRADI: Towards Group Recommendation Using Attentive Dual Top-Down and Bottom-Up Influences",
+         "year": "2019",
+         "algorithm_class": "profileAgg",
+         "venue": "BigData"
+      },
+      {
+         "id": 129,
+         "label": "[mixed/other/unclear] A study on the role of flexible preferences in group recommendations",
+         "title": "A study on the role of flexible preferences in group recommendations",
+         "year": "2019",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "Applied Intelligence"
+      },
+      {
+         "id": 130,
+         "label": "[profileAgg] Efficient User Profiling Based Intelligent Travel Recommender System for Individual and Group of Users",
+         "title": "Efficient User Profiling Based Intelligent Travel Recommender System for Individual and Group of Users",
+         "year": "2018",
+         "algorithm_class": "profileAgg",
+         "venue": "Mobile Networks and Applications"
+      },
+      {
+         "id": 131,
+         "label": "[resultsAgg] Evolutionary learning approach to multi-agent negotiation for group recommender systems",
+         "title": "Evolutionary learning approach to multi-agent negotiation for group recommender systems",
+         "year": "2018",
+         "algorithm_class": "resultsAgg",
+         "venue": "Multimedia Tools and Applications"
+      },
+      {
+         "id": 132,
+         "label": "[mixed/other/unclear] Towards creating a non-synthetic group recommendation dataset",
+         "title": "Towards creating a non-synthetic group recommendation dataset",
+         "year": "2019",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "RecSys"
+      },
+      {
+         "id": 133,
+         "label": "[profileAgg] AGREE: Attention-Based Tour Group Recommendation with Multi-modal Data",
+         "title": "AGREE: Attention-Based Tour Group Recommendation with Multi-modal Data",
+         "year": "2019",
+         "algorithm_class": "profileAgg",
+         "venue": "DASFAA"
+      },
+      {
+         "id": 134,
+         "label": "[resultsAgg] GameRecs: Video Games Group Recommendations",
+         "title": "GameRecs: Video Games Group Recommendations",
+         "year": "2019",
+         "algorithm_class": "resultsAgg",
+         "venue": "ADBIS"
+      },
+      {
+         "id": 135,
+         "label": "[mixed/other/unclear] Detecting the latent associations hidden in multi-source information for better group recommendation",
+         "title": "Detecting the latent associations hidden in multi-source information for better group recommendation",
+         "year": "2019",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "Knowledge-Based Systems"
+      },
+      {
+         "id": 136,
+         "label": "[profileAgg] HGGC: A hybrid group recommendation model considering group cohesion",
+         "title": "HGGC: A hybrid group recommendation model considering group cohesion",
+         "year": "2019",
+         "algorithm_class": "profileAgg",
+         "venue": "Expert Systems with Applications"
+      },
+      {
+         "id": 137,
+         "label": "[resultsAgg] Can we please everyone? Group recommendations in signed social networks",
+         "title": "Can we please everyone? Group recommendations in signed social networks",
+         "year": "2023",
+         "algorithm_class": "resultsAgg",
+         "venue": "Multimedia Tools and Applications"
+      },
+      {
+         "id": 138,
+         "label": "[resultsAgg] Can\u2019t get more satisfaction?: game-theoretic group-recommendation of educational resources",
+         "title": "Can\u2019t get more satisfaction?: game-theoretic group-recommendation of educational resources",
+         "year": "2018",
+         "algorithm_class": "resultsAgg",
+         "venue": "LAK18"
+      },
+      {
+         "id": 139,
+         "label": "[resultsAgg] Situation-dependent combination of long-term and session-based preferences in group recommendations: an experimental analysis",
+         "title": "Situation-dependent combination of long-term and session-based preferences in group recommendations: an experimental analysis",
+         "year": "2018",
+         "algorithm_class": "resultsAgg",
+         "venue": "SAC 2018"
+      },
+      {
+         "id": 140,
+         "label": "[profileAgg] Attentive Group Recommendation",
+         "title": "Attentive Group Recommendation",
+         "year": "2018",
+         "algorithm_class": "profileAgg",
+         "venue": "SIGIR18"
+      },
+      {
+         "id": 141,
+         "label": "[resultsAgg] Exploring User Roles In Group Recommendations: A Learning Approach",
+         "title": "Exploring User Roles In Group Recommendations: A Learning Approach",
+         "year": "2018",
+         "algorithm_class": "resultsAgg",
+         "venue": "UMAP18"
+      },
+      {
+         "id": 142,
+         "label": "[resultsAgg] Diversifying Group Recommendation",
+         "title": "Diversifying Group Recommendation",
+         "year": "2018",
+         "algorithm_class": "resultsAgg",
+         "venue": "IEEE Access"
+      },
+      {
+         "id": 143,
+         "label": "[resultsAgg] Motivating Students in Collaborative Activities With Game-Theoretic Group Recommendations",
+         "title": "Motivating Students in Collaborative Activities With Game-Theoretic Group Recommendations",
+         "year": "2020",
+         "algorithm_class": "resultsAgg",
+         "venue": "IEEE Transactions on Learning Technologies"
+      },
+      {
+         "id": 144,
+         "label": "[resultsAgg] A Novel Group Recommendation Mechanism From the Perspective of Preference Distribution",
+         "title": "A Novel Group Recommendation Mechanism From the Perspective of Preference Distribution",
+         "year": "2018",
+         "algorithm_class": "resultsAgg",
+         "venue": "IEEE Access"
+      },
+      {
+         "id": 145,
+         "label": "[resultsAgg] Context-Aware Group Recommendation for Point-of-Interests",
+         "title": "Context-Aware Group Recommendation for Point-of-Interests",
+         "year": "2018",
+         "algorithm_class": "resultsAgg",
+         "venue": "IEEE Access"
+      },
+      {
+         "id": 146,
+         "label": "[mixed/other/unclear] Group Recommendation Based on Financial Social Network for Robo-Advisor",
+         "title": "Group Recommendation Based on Financial Social Network for Robo-Advisor",
+         "year": "2018",
+         "algorithm_class": "mixed/other/unclear",
+         "venue": "IEEE Access"
+      },
+      {
+         "id": 147,
+         "label": "[profileAgg] Merging user social network into the random walk model for better group recommendation",
+         "title": "Merging user social network into the random walk model for better group recommendation",
+         "year": "2018",
+         "algorithm_class": "profileAgg",
+         "venue": "Applied Intelligence"
+      },
+      {
+         "id": 149,
+         "label": "[profileAgg] Neural Network Collaborative Filtering for Group Recommendation",
+         "title": "Neural Network Collaborative Filtering for Group Recommendation",
+         "year": "2018",
+         "algorithm_class": "profileAgg",
+         "venue": ""
+      },
+      {
+         "id": 150,
+         "label": "[resultsAgg] FairGRecs: Fair Group Recommendations by Exploiting Personal Health Information",
+         "title": "FairGRecs: Fair Group Recommendations by Exploiting Personal Health Information",
+         "year": "2018",
+         "algorithm_class": "resultsAgg",
+         "venue": ""
+      },
+      {
+         "id": 151,
+         "label": "[resultsAgg] SAGA: A Submodular Greedy Algorithm for Group Recommendation",
+         "title": "SAGA: A Submodular Greedy Algorithm for Group Recommendation",
+         "year": "2018",
+         "algorithm_class": "resultsAgg",
+         "venue": "Proceedings of the AAAI Conference on Artificial Intelligence"
+      }
+   ],
+   "links": [
+      {
+         "source": 6,
+         "target": 37,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 6,
+         "target": 92,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 8,
+         "target": 54,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 8,
+         "target": 55,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 8,
+         "target": 79,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 8,
+         "target": 88,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 86,
+         "target": 14,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 103,
+         "target": 14,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 104,
+         "target": 14,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 14,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 14,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 32,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },      
+      {
+         "source": 31,
+         "target": 15,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 103,
+         "target": 15,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 108,
+         "target": 15,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 15,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 17,
+         "target": 37,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 27,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 27,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 29,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 29,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 31,
+         "target": 71,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 31,
+         "target": 77,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 31,
+         "target": 82,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 31,
+         "target": 83,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 31,
+         "target": 84,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 31,
+         "target": 94,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 31,
+         "target": 108,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 31,
+         "target": 111,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 31,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 40,
+         "target": 37,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 51,
+         "target": 37,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 40,
+         "target": 92,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 55,
+         "target": 41,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 46,
+         "target": 92,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 51,
+         "target": 92,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 53,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 53,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 55,
+         "target": 54,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 54,
+         "target": 61,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 54,
+         "target": 79,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 54,
+         "target": 88,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 55,
+         "target": 61,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 55,
+         "target": 62,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 55,
+         "target": 79,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 55,
+         "target": 87,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 55,
+         "target": 88,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 84,
+         "target": 60,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 104,
+         "target": 60,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 60,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 87,
+         "target": 62,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 95,
+         "target": 65,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 99,
+         "target": 65,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 103,
+         "target": 69,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 128,
+         "target": 69,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 86,
+         "target": 70,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 103,
+         "target": 70,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 70,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 70,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 104,
+         "target": 71,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 71,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 71,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 73,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 104,
+         "target": 75,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 75,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 75,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 103,
+         "target": 77,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 108,
+         "target": 77,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 77,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 96,
+         "target": 78,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 103,
+         "target": 78,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 78,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 78,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 81,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 104,
+         "target": 82,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 108,
+         "target": 82,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 82,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 104,
+         "target": 83,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 111,
+         "target": 83,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 83,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 84,
+         "target": 94,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 104,
+         "target": 84,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 84,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 84,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 124,
+         "target": 85,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 86,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 89,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 91,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 103,
+         "target": 94,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 104,
+         "target": 94,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 94,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 94,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 99,
+         "target": 95,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 96,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 96,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 97,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 98,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 136,
+         "target": 98,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 103,
+         "target": 100,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 111,
+         "target": 100,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 100,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 103,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 128,
+         "target": 103,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 103,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 104,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 104,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 105,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 105,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 108,
+         "target": 111,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 108,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 141,
+         "target": 110,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 127,
+         "target": 111,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 144,
+         "target": 114,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 145,
+         "target": 114,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 122,
+         "target": 128,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 127,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      },
+      {
+         "source": 140,
+         "target": 128,
+         "type": "is_baseline_for",
+         "label": "is_baseline_for",
+         "value": 10.0
+      }
+   ]
+}
