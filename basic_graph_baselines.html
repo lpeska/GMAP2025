@@ -1,0 +1,86 @@
+<head>
+    <style> body { margin: 0; } </style>
+  
+    <script src="force-graph.min.js"></script>
+    <script src="jquery-3.7.1.min.js"></script>
+    <!--<script src="../../dist/force-graph.js"></script>-->
+  </head>
+  
+  <body>
+    <div id="graph"></div>
+  
+    <script>
+        fetch('graphsDef/graphEdgesBaselines.json').then(res => res.json()).then(data => {
+            const Graph = ForceGraph()
+            (document.getElementById('graph'))
+            .graphData(data)
+            
+            .nodeCanvasObject((node, ctx) => nodePaint(node, getColor(node.algorithm_class), ctx))
+            .nodePointerAreaPaint(nodePaint)
+            
+            .nodeId('id')
+            .nodeVal('val')
+            .nodeLabel('label')
+            .nodeAutoColorBy('algorithm_class')
+            .linkSource('source')
+            .linkTarget('target')
+            .linkLabel('label')
+            .linkWidth('value')
+            .d3VelocityDecay(0.6)
+        });
+
+
+
+  function getColor(type){
+        if(type=="profileAgg"){
+            return "#ff0000";
+        }else if(type=="resultsAgg"){
+            return "#0000ff";
+        }else{
+            return "#aaaaaa";      
+        }
+    
+    }    
+        
+    function nodePaint(node, color, ctx) {
+      ctx.fillStyle = color;
+      var type = node.algorithm_class ;
+      var id = node.id ;
+      var x = node.x ;
+      var y = node.y ;
+      
+      if (type === 'resultsAgg') {
+        ctx.fillRect(x - 4, y - 4, 8, 8); // rectangle
+      } else if (type === 'profileAgg') {
+        ctx.beginPath();
+        ctx.arc(x, y, 5, 0, 2 * Math.PI, false); // circle
+        ctx.fill();
+      } else {
+        ctx.beginPath();
+        ctx.moveTo(x, y - 5);
+        ctx.lineTo(x - 5, y + 5);
+        ctx.lineTo(x + 5, y + 5); // triangle
+        ctx.fill();
+      }
+    }        
+
+
+    </script>
+  </body>
+
+  <!--
+
+
+        $.get('graphEdgesAuthors.json', function (res) {
+            data = res.json();
+            const Graph = ForceGraph()
+                (document.getElementById('graph'))
+                .graphData(data)
+                .nodeId('id')
+                .nodeVal('val')
+                .nodeLabel('label')
+                .nodeAutoColorBy('year')
+                .linkSource('source')
+                .linkTarget('target');
+        });      
+    -->
